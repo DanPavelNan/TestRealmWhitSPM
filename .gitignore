@@ -1,0 +1,12 @@
+
+# Ignore user data. This contain breakpoints and user schema configurarions 
+
+# Xcode
+build
+.DS_Store
+xcuserdata
+xcuserdata/*
+
+## Build generated
+build/
+DerivedData/
